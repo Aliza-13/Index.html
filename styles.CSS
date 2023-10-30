@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-html
-<link rel="stylesheet" href="styles.CSS"
->
+<html>
 <html lang="fin">
 <head>
 <meta charset="UTF-8">
 <title>Music</title>
 </head>
 
+<body>
+<main>
 <style>
 body {
 background color: blue;
@@ -39,6 +39,8 @@ box-shadow: 0 0 10px 5px rgba(255,255,255,0.5);
 <li>Nu Metal</li>
 <li>Symphonic Metal</li>
 </ul>
+
+</main>
 
 
 
