@@ -2,6 +2,12 @@
 <html>
 <head>
 <title>CSS-sivu</title>
+</head>
+
+.Movie {
+font-size: 24px;
+color:blue;
+}
 
 body {
 background color: blue;
@@ -19,6 +25,9 @@ box-shadow: 0 0 10px 5px rgba(255,255,255,0.5);
 </style>
 
 <img src="lightshow-22314_640.jpg" alt="metallimusiiki/>
+
+
+
 
 
 <main>
